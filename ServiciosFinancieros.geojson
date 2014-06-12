@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nombre": "mutual", "tipo": "mutual" }, "geometry": { "type": "Point", "coordinates": [ -84.133583700173617, 9.927567227998257 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "mutual", "tipo": "mutual" }, "geometry": { "type": "Point", "coordinates": [ -84.13354030375389, 9.927558678673533 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "mutual escazu", "tipo": "mutual" }, "geometry": { "type": "Point", "coordinates": [ -84.133583700173617, 9.927635622587948 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "mutual", "tipo": "mutual" }, "geometry": { "type": "Point", "coordinates": [ -84.133583700173617, 9.927695467842217 ] } },
+{ "type": "Feature", "properties": { "id": 8, "nombre": "financiera Orlich", "tipo": "financiera" }, "geometry": { "type": "Point", "coordinates": [ -84.152244160660231, 9.945746861653296 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "financiera Scotiabank", "tipo": "financiera" }, "geometry": { "type": "Point", "coordinates": [ -84.150404152463395, 9.94422516291761 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nombre": "mutual", "tipo": "mutual" }, "geometry": { "type": "Point", "coordinates": [ -84.137294094061076, 9.928806877718776 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nombre": "financiera", "tipo": "financiera" }, "geometry": { "type": "Point", "coordinates": [ -84.13354030375389, 9.927353494813341 ] } },
+{ "type": "Feature", "properties": { "id": 9, "nombre": "Telefono Publico", "tipo": "telefono publico" }, "geometry": { "type": "Point", "coordinates": [ -84.14052712733131, 9.919539313786556 ] } }
+]
+}

@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nombre": "Tapachula San Jose Bello Horizonte", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.137755358059394, 9.920095522734696 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "Tapachula San Jose", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.140224189940611, 9.920234821241841 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Gasolinera Delta San Rafael de Escazu", "tipo": "Gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.132988568102618, 9.930037804880429 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nombre": "Tapachula Sendito a Escazú", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.134090409538771, 9.927867128060907 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "Tapachula Sentido a San Jose", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.133972565534876, 9.927716224859156 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "Tapachula sentido a Escazú", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.131981001869363, 9.930780707009442 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nombre": "Tapachula Sendito a San Jose", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.131768882662385, 9.93065302082606 ] } },
+{ "type": "Feature", "properties": { "id": 8, "nombre": "Servicios de Transporte Tapachula Sede Central", "tipo": "Parada Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.126913709702606, 9.904406649579668 ] } },
+{ "type": "Feature", "properties": { "id": 9, "nombre": "Estación La Favorita Escazu", "tipo": "Gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.15054143248004, 9.933055834287684 ] } },
+{ "type": "Feature", "properties": { "id": 10, "nombre": "Parada de bus Bello Horizonte - San Jose", "tipo": "parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.13119038762585, 9.916972306094909 ] } },
+{ "type": "Feature", "properties": { "id": 11, "nombre": "Parada de bus interlinea Escazu", "tipo": "Parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.131112274070318, 9.91702360369783 ] } },
+{ "type": "Feature", "properties": { "id": 12, "nombre": "Parada de bus Bello Horizonte - San Jose", "tipo": "Parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.129749626490721, 9.919255041652441 ] } },
+{ "type": "Feature", "properties": { "id": 13, "nombre": "Parada de bus Bello Horizote - San Jose", "tipo": "Parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.133386246464354, 9.916476428852752 ] } },
+{ "type": "Feature", "properties": { "id": 15, "nombre": "parada de bus San Antonio - San Jose", "tipo": "Parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.129263586589701, 9.904267352615257 ] } },
+{ "type": "Feature", "properties": { "id": 14, "nombre": "parada de bus San Antonio - San Jose", "tipo": "parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.134189080229405, 9.904964171365721 ] } },
+{ "type": "Feature", "properties": { "id": 16, "nombre": "parada de bus interlinea", "tipo": "parada de Autobus" }, "geometry": { "type": "Point", "coordinates": [ -84.14990943327777, 9.930683441983094 ] } },
+{ "type": "Feature", "properties": { "id": 17, "nombre": "Delta Palermo", "tipo": "gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.12742574821398, 9.93224367514925 ] } },
+{ "type": "Feature", "properties": { "id": 37, "nombre": "Hotel", "tipo": "hotel" }, "geometry": { "type": "Point", "coordinates": [ -84.161630806247686, 9.936157049163667 ] } },
+{ "type": "Feature", "properties": { "id": 37, "nombre": "Hotel", "tipo": "hotel" }, "geometry": { "type": "Point", "coordinates": [ -84.161643825173599, 9.936148500063387 ] } },
+{ "type": "Feature", "properties": { "id": 36, "nombre": "Hotel Out of Bounds", "tipo": "hotel" }, "geometry": { "type": "Point", "coordinates": [ -84.15842381082939, 9.934682326058603 ] } }
+]
+}

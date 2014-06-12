@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nombre": "Hospital Cima San Jose", "tipo": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ -84.144272131473755, 9.939590933313873 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "Ebais San Antonio", "tipo": "Ebais" }, "geometry": { "type": "Point", "coordinates": [ -84.13320657950959, 9.904754912400774 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Ebais Escazu", "tipo": "Ebais" }, "geometry": { "type": "Point", "coordinates": [ -84.137743573658881, 9.920031677565779 ] } }
+]
+}
